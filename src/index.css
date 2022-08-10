@@ -4,6 +4,6 @@
 
 @layer base {
     body {
-        background-color: theme('colors.gray.200');
-      }
+        background-color: theme('colors.slate.300');
+    }
 }

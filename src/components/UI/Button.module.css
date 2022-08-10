@@ -1,5 +1,4 @@
 button {
     box-shadow: theme('boxShadow.md');
-    padding: theme('spacing.3');
     border-radius: theme('borderRadius.lg');
   }
